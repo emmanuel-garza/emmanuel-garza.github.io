@@ -5,6 +5,15 @@
 
 ![](img/disk.gif)
 
+![](img/1000-nano.png)
+
+
+![](img/c-shape.png)
+
+
+![](img/two-lambdas.png)
+
+
 ![](img/branches.gif)
 
 ![](img/disk_2d.gif)
@@ -14,6 +23,3 @@
 ![](img/illumination2.gif)
 
 ![](img/bend_movie_hd.gif)
-
-
-![](img/two-lambda.svg)
