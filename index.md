@@ -23,7 +23,7 @@
 *Optimized metalens designed to split light of two different wavelengths*
 
 
-## Final Project for the Ae 232b CFD (Caltech Winter 2015)
+## Final Project for Ae 232b CFD (Caltech Winter 2015)
 
 ![](img/three_petals.gif)
 *Flow past a spinning three-lobed structure. Simulation performed using particle and immerse boundary methods.*
