@@ -14,6 +14,10 @@
 ![](img/two-lambdas.png)
 
 
+
+![](img/three_petals.gif)
+
+
 ![](img/branches.gif)
 
 ![](img/disk_2d.gif)
