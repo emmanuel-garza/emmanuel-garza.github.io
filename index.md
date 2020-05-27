@@ -1,5 +1,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=FlJFevsAAAAJ&hl=en)
 
+[LinkedIn](https://www.linkedin.com/in/emmanuel-garza/)
+
 ## Wave Scattering in Three-Dimensions Using Boundary Integral Equations
 [ArXiv Preprint](https://arxiv.org/abs/1807.01813)
 
