@@ -3098,9 +3098,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   border:1px solid black;
 }  */
 
-/* .timeline ul {
-  height:100%;
-    margin-bottom: -100px;
+/* .timeline ul{
+  margin: auto;
 } */
 
 
@@ -3112,10 +3111,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 40px;
   list-style-type: none;
 }
-
+/* 
 .timeline ul li:last-child {
   padding-bottom: -150px;  
-}
+} */
 
 .timeline ul li:before {
   content: '';
@@ -3221,7 +3220,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     left: calc(-41vw - 45px);
   }
 }
-/* 
+
 @media screen and (max-width: 700px) {
   .timeline ul li {
     margin-left: 20px;
@@ -3242,7 +3241,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     position: relative;
   }
 } 
-*/
+
 
 /* =================================== */
 /*  Pricing Page Styles
