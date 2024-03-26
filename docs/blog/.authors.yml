@@ -1,0 +1,7 @@
+authors:
+  emmanuel-garza:
+    name: Emmanuel Garza # Author name
+    description: Applied Mathematician & Software Developer # Author description
+    avatar: /blog/media/emmanuel.png # Author avatar
+    # slug: url                            # Author profile slug
+    url: https://emmanuel-garza.github.io/ # Author website URL
