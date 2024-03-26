@@ -4,7 +4,7 @@ window.MathJax = {
       displayMath: [["\\[", "\\]"]],
       processEscapes: true,
       processEnvironments: true,
-      tags: 'ams'
+      tags: 'ams' // this allows to enumerate equations
     },
     options: {
       ignoreHtmlClass: ".*|",

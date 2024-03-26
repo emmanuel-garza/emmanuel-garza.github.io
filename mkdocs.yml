@@ -1,4 +1,14 @@
 site_name: Emmanuel Garza
+
+nav:
+  - Main:
+      - index.md
+  - Blog:
+      - blog/index.md
+  - Photography:
+      - photography/index.md
+      - photography/test.md
+
 theme:
   name: material
   font:
@@ -51,12 +61,6 @@ plugins:
       assets: true
       assets_fetch: true
       # assets_fetch_dir: assets/external
-
-nav:
-  - Main:
-      - index.md
-  - Blog:
-      - blog/index.md
 
 markdown_extensions:
   - admonition

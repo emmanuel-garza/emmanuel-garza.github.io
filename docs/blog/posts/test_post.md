@@ -60,6 +60,13 @@ And my beloved integral equations
 \int H(\mathbf{r}, \mathbf{r}') \phi(\mathbf{r}') \text{d} \sigma = - u^\text{inc}(\mathbf{r})
 \end{equation}
 
+!!! success annotate "Helmholtz Equation"
+
+    \begin{equation}
+    \nabla^2 u + k^2 u = 0
+    \end{equation}
+
+
 ## Using Icons
 
 !!! note annotate "Title of Note (1)"
