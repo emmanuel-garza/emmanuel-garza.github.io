@@ -12,7 +12,10 @@ nav:
 theme:
   name: material
   font:
-    text: Ubuntu Mono
+    # text: Ubuntu Mono
+    text: Ubuntu
+
+
   features:
     - navigation.indexes
     - content.code.copy
@@ -49,6 +52,7 @@ theme:
       quote: octicons/quote-16
 
 plugins:
+  - glightbox
   - blog:
       authors_file: "{blog}/.authors.yml"
       archive_date_format: MMMM yyyy
@@ -63,6 +67,8 @@ plugins:
       # assets_fetch_dir: assets/external
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.highlight:

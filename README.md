@@ -1,6 +1,10 @@
 # emmanuel-garza.github.io
 
 
+```bash
+mkdocs serve
+```
+
 ## Todo
 - [ ] For each photography, include camera/device and metadata
 - [ ] Add linked, google scholar, links at top
