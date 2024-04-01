@@ -66,6 +66,8 @@ plugins:
       assets_fetch: true
       # assets_fetch_dir: assets/external
 
+repo_url: https://github.com/emmanuel-garza/emmanuel-garza.github.io
+
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -88,7 +90,8 @@ markdown_extensions:
 #   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
 #   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
-# extra_css:
+extra_css:
+  - stylesheets/extra.css
 #   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
 
 extra_javascript:

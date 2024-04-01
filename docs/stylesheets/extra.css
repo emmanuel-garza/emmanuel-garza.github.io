@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+}
+
+.image img {
+    width: 100%;
+    height: auto; /* Maintain the aspect ratio */
+}
+
+.text {
+    flex: 1; /* Allow the text to take up remaining space */
+}
+
+.filter-green{
+    filter: invert(21%) sepia(100%) saturate(7414%) hue-rotate(359deg) brightness(94%) contrast(117%);
+}
+
