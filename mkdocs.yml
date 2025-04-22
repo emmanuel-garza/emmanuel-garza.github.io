@@ -1,4 +1,10 @@
 site_name: Emmanuel Garza
+
+docs_dir: src
+
+# For github pages, we need to use the docs folder for the built static website
+site_dir: docs
+
 extra:
   social:
     - icon: fontawesome/brands/github
