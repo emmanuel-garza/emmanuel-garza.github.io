@@ -1,8 +1,17 @@
 # emmanuel-garza.github.io
 
+## Development
 
+While working on updates, start the mkdocs live server using (at the root level):
 ```bash
 mkdocs serve
+```
+
+## To deploy
+
+On the github settings for this repo, the `Pages` section. We have set the location `deployment`. To build the site before pushing run:
+```bash
+mkdocs build -f mkdocs.yml -d deployment
 ```
 
 ## Todo
