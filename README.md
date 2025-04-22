@@ -11,7 +11,7 @@ mkdocs serve
 
 On the github settings for this repo, the `Pages` section. We have set the location `deployment`. To build the site before pushing run:
 ```bash
-mkdocs build -f mkdocs.yml -d deployment
+mkdocs build -f mkdocs.yml
 ```
 
 ## Todo
