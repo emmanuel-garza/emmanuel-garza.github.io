@@ -1,5 +1,2 @@
-# Garza Notes
-
-
-Hello!
+# Blog
 
