@@ -15,3 +15,6 @@
     filter: invert(21%) sepia(100%) saturate(7414%) hue-rotate(359deg) brightness(94%) contrast(117%);
 }
 
+.md-typeset .admonition.abstract {
+    font-size: 1em; /* Changes the font size in a abstract note */
+}

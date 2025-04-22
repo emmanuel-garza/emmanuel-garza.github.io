@@ -1,15 +1,23 @@
 site_name: Emmanuel Garza
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/emmanuel-garza
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/emmanuel-garza/
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/citations?user=FlJFevsAAAAJ&hl=en&oi=ao
 
 nav:
   - About Me:
       - index.md
-  - Dev Journal:
-      - blog/index.md
-  - Research:
-      - research/index.md
-  - Photography:
-      - photography/index.md
-      - photography/test.md
+  # - Dev Journal:
+  #     - blog/index.md
+  # - Research:
+  #     - research/index.md
+  # - Photography:
+  #     - photography/index.md
+  #     - photography/test.md
 
 theme:
   name: material
@@ -68,9 +76,7 @@ plugins:
       assets_fetch: true
       # assets_fetch_dir: assets/external
 
-# repo_url: https://github.com/emmanuel-garza/emmanuel-garza.github.io
 repo_url: https://github.com/emmanuel-garza/
-
 
 markdown_extensions:
   - attr_list
@@ -95,6 +101,7 @@ markdown_extensions:
 #   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
   - stylesheets/extra.css
 #   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
 
